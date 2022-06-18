@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: HOODFILLER-SERVICE
+
+server:
+  port: 9001
